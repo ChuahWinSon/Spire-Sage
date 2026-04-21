@@ -1,0 +1,892 @@
+[
+    {
+        "Name":"Astrolabe",
+        "Description":"Upon pickup, choose and Transform 3 cards, then Upgrade them.",
+        "Image":"relics\/Astrolabe.png"
+    },
+    {
+        "Name":"Black Star",
+        "Description":"Elites now drop 2 Relics when defeated.",
+        "Image":"relics\/BlackStar.png"
+    },
+    {
+        "Name":"Busted Crown",
+        "Description":"Gain 1 Energy at the start of each turn. On card reward screens, you have 2 fewer cards to choose from.",
+        "Image":"relics\/BustedCrown.png"
+    },
+    {
+        "Name":"Calling Bell",
+        "Description":"Obtain a special Curse and 3 Relics",
+        "Image":"relics\/CallingBell.png"
+    },
+    {
+        "Name":"Coffee Dripper",
+        "Description":"Gain 1 Energy at the start of each turn. You can no longer Rest at Rest Sites.",
+        "Image":"relics\/CoffeeDripper.png"
+    },
+    {
+        "Name":"Cursed Key",
+        "Description":"Gain 1 Energy at the start of each turn. Whenever you open non-boss chests, obtain 1 Curse.",
+        "Image":"relics\/CursedKey.png"
+    },
+    {
+        "Name":"Ectoplasm",
+        "Description":"Gain 1 Energy at the start of each turn. You can no long obtain Gold.",
+        "Image":"relics\/Ectoplasm.png"
+    },
+    {
+        "Name":"Empty Cage",
+        "Description":"Upon pickup, remove 2 cards from your deck.",
+        "Image":"relics\/EmptyCage.png"
+    },
+    {
+        "Name":"Fusion Hammer",
+        "Description":"Gain 1 Energy at the start of each turn. You can no longer Smith at Rest Sites.",
+        "Image":"relics\/FusionHammer.png"
+    },
+    {
+        "Name":"Pandora's Box",
+        "Description":"Transform all Strikes and Defends.",
+        "Image":"relics\/PandorasBox.png"
+    },
+    {
+        "Name":"Philosopher\u2019s Stone",
+        "Description":"Gain 1 Energy at the start of each turn. ALL enemies start with 2 Strength.",
+        "Image":"relics\/PhilosophersStone.png"
+    },
+    {
+        "Name":"Runic Dome",
+        "Description":"Gain 1 Energy at the start of each turn. You can no long see enemy Intents.",
+        "Image":"relics\/RunicDome.png"
+    },
+    {
+        "Name":"Runic Pyramid",
+        "Description":"At the end of your turn, you no longer discard your hand.",
+        "Image":"relics\/RunicPyramid.png"
+    },
+    {
+        "Name":"Sacred Bark",
+        "Description":"Double the effectiveness of potions.",
+        "Image":"relics\/SacredBark.png"
+    },
+    {
+        "Name":"Slaver's Collar",
+        "Description":"During Boss and Elite combats, gain Energy at the start of your turn.",
+        "Image":"relics\/SlaversCollar.png"
+    },
+    {
+        "Name":"Snecko Eye",
+        "Description":"Draw 2 additional cards each turn. Start each combat Confused.",
+        "Image":"relics\/SneckoEye.png"
+    },
+    {
+        "Name":"Sozu",
+        "Description":"Gain 1 Energy at the start of each turn. You can no longer use potions.",
+        "Image":"relics\/Sozu.png"
+    },
+    {
+        "Name":"Tiny House",
+        "Description":"Obtain 1 Potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 Card. Upgrade 1 Random card.",
+        "Image":"relics\/TinyHouse.png"
+    },
+    {
+        "Name":"Velvet Choker",
+        "Description":"Gain 1 Energy at the start of each turn. You cannot play more than 6 cards per turn.",
+        "Image":"relics\/VelvetChoker.png"
+    },
+    {
+        "Name":"Frozen Core",
+        "Description":"*Replaces Cracked Core* If you end your turn with empty Orb slots, Channel 1 Frost Orb.",
+        "Image":"relics\/FrozenCore.png"
+    },
+    {
+        "Name":"Inserter",
+        "Description":"Every 2 turns, gain 1 Orb slot.",
+        "Image":"relics\/Inserter.png"
+    },
+    {
+        "Name":"Nuclear Battery",
+        "Description":"At the start of each combat, Channel 1 Plasma.",
+        "Image":"relics\/NuclearBattery.png"
+    },
+    {
+        "Name":"Black Blood",
+        "Description":"*Replaces burning blood* At the end of combat, heal 12 HP.",
+        "Image":"relics\/BlackBlood.png"
+    },
+    {
+        "Name":"Mark of Pain",
+        "Description":"Gain 1 Energy at the start of each turn. Start combats with 2 Wounds in your draw pile.",
+        "Image":"relics\/MarkofPain.png"
+    },
+    {
+        "Name":"Runic Cube",
+        "Description":"Whenever you lose HP, draw 1 card.",
+        "Image":"relics\/RunicCube.png"
+    },
+    {
+        "Name":"Hovering Kite",
+        "Description":"The first time you discard a card each turn, gain 1 Energy.",
+        "Image":"relics\/HoveringKite.png"
+    },
+    {
+        "Name":"Ring of the Serpent",
+        "Description":"*Replaces Ring of the Snake* At the start of your turn, draw 1 additional card.",
+        "Image":"relics\/RingoftheSerpent.png"
+    },
+    {
+        "Name":"Wrist Blade",
+        "Description":"Attacks that cost 0 deal 4 additional damage.",
+        "Image":"relics\/WristBlade.png"
+    },
+    {
+        "Name":"Holy Water",
+        "Description":"*Replaces Pure Water* At the start of each combat, add 3 Miracles to your hand.",
+        "Image":"relics\/HolyWater.png"
+    },
+    {
+        "Name":"Violet Lotus",
+        "Description":"Whenever you exit Calm, gain an additional Energy.",
+        "Image":"relics\/VioletLotus.png"
+    },
+    {
+        "Name":"Akabeko",
+        "Description":"Your first attack each combat deals 8 additional damage.",
+        "Image":"relics\/Akabeko.png"
+    },
+    {
+        "Name":"Anchor",
+        "Description":"Start each combat with 10 Block.",
+        "Image":"relics\/Anchor.png"
+    },
+    {
+        "Name":"Ancient Tea Set",
+        "Description":"Whenever you enter a Rest Site, start the next combat with 2 Energy.",
+        "Image":"relics\/AncientTeaSet.png"
+    },
+    {
+        "Name":"Art of War",
+        "Description":"If you do not play any Attacks during your turn, gain an extra Energy next turn.",
+        "Image":"relics\/ArtofWar.png"
+    },
+    {
+        "Name":"Bag of Marbles",
+        "Description":"At the start of each combat, apply 1 Vulnerable to ALL enemies.",
+        "Image":"relics\/BagofMarbles.png"
+    },
+    {
+        "Name":"Bag of Preparation",
+        "Description":"At the start of each combat, draw 2 additional cards.",
+        "Image":"relics\/BagofPreparation.png"
+    },
+    {
+        "Name":"Blood Vial",
+        "Description":"At the start of each combat, heal 2 HP.",
+        "Image":"relics\/BloodVial.png"
+    },
+    {
+        "Name":"Bronze Scales",
+        "Description":"Whenever you take damage, deal 3 damage back.",
+        "Image":"relics\/BronzeScales.png"
+    },
+    {
+        "Name":"Centennial Puzzle",
+        "Description":"The first time you lose HP each combat, draw 3 cards.",
+        "Image":"relics\/CentennialPuzzle.png"
+    },
+    {
+        "Name":"Ceramic Fish",
+        "Description":"Whenever you add a card to your deck, gain 9 gold.",
+        "Image":"relics\/CeramicFish.png"
+    },
+    {
+        "Name":"Dream Catcher",
+        "Description":"Whenever you rest, you may add a card to your deck.",
+        "Image":"relics\/DreamCatcher.png"
+    },
+    {
+        "Name":"Happy Flower",
+        "Description":"Every 3 turns, gain 1 Energy.",
+        "Image":"relics\/HappyFlower.png"
+    },
+    {
+        "Name":"Juzu Bracelet",
+        "Description":"Regular enemy combats are no longer encountered in ? rooms.",
+        "Image":"relics\/JuzuBracelet.png"
+    },
+    {
+        "Name":"Lantern",
+        "Description":"Gain 1 Energy on the first turn of each combat.",
+        "Image":"relics\/Lantern.png"
+    },
+    {
+        "Name":"Maw Bank",
+        "Description":"Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at the shop.",
+        "Image":"relics\/MawBank.png"
+    },
+    {
+        "Name":"Meal Ticket",
+        "Description":"Whenever you enter a shop room, heal 15 HP.",
+        "Image":"relics\/MealTicket.png"
+    },
+    {
+        "Name":"Nunchaku",
+        "Description":"Every time you play 10 Attacks, gain 1 Energy.",
+        "Image":"relics\/Nunchaku.png"
+    },
+    {
+        "Name":"Oddly Smooth Stone",
+        "Description":"At the start of each combat, gain 1 Dexterity.",
+        "Image":"relics\/OddlySmoothStone.png"
+    },
+    {
+        "Name":"Omamori",
+        "Description":"Negate the next 2 Curses you obtain.",
+        "Image":"relics\/Omamori.png"
+    },
+    {
+        "Name":"Orichalcum",
+        "Description":"If you end your turn without Block, gain 6 Block.",
+        "Image":"relics\/Orichalcum.png"
+    },
+    {
+        "Name":"Pen Nib",
+        "Description":"Every 10th Attack you play deals double damage.",
+        "Image":"relics\/PenNib.png"
+    },
+    {
+        "Name":"Potion Belt",
+        "Description":"Upon pickup, gain 2 potion slots.",
+        "Image":"relics\/PotionBelt.png"
+    },
+    {
+        "Name":"Preserved Insect",
+        "Description":"Enemies in Elite rooms have 25% less HP.",
+        "Image":"relics\/PreservedInsect.png"
+    },
+    {
+        "Name":"Regal Pillow",
+        "Description":"Heal an additional 15 HP when you Rest.",
+        "Image":"relics\/RegalPillow.png"
+    },
+    {
+        "Name":"Smiling Mask",
+        "Description":"The merchant\u2019s card removal service now always costs 50 Gold.",
+        "Image":"relics\/SmilingMask.png"
+    },
+    {
+        "Name":"Strawberry",
+        "Description":"Raise your Max HP by 7.",
+        "Image":"relics\/Strawberry.png"
+    },
+    {
+        "Name":"The Boot",
+        "Description":"Whenever you would deal 4 or less unblocked Attack damage, increase it to 5.",
+        "Image":"relics\/TheBoot.png"
+    },
+    {
+        "Name":"Tiny Chest",
+        "Description":"Every 4th ? room is a Treasure room.",
+        "Image":"relics\/TinyChest.png"
+    },
+    {
+        "Name":"Toy Ornithopter",
+        "Description":"Whenever you use a potion, heal 5 HP.",
+        "Image":"relics\/ToyOrnithopter.png"
+    },
+    {
+        "Name":"Vajra",
+        "Description":"At the start of each combat, gain 1 Strength.",
+        "Image":"relics\/Vajra.png"
+    },
+    {
+        "Name":"War Paint",
+        "Description":"Upon pickup, Upgrade 2 random Skills.",
+        "Image":"relics\/WarPaint.png"
+    },
+    {
+        "Name":"Whetstone",
+        "Description":"Upon pickup, Upgrade 2 random Attacks.",
+        "Image":"relics\/Whetstone.png"
+    },
+    {
+        "Name":"Data Disk",
+        "Description":"Start each combat with 1 Focus.",
+        "Image":"relics\/DataDisk.png"
+    },
+    {
+        "Name":"Red Skull",
+        "Description":"While your HP is at or below 50%, you have 3 additional Strength.",
+        "Image":"relics\/RedSkull.png"
+    },
+    {
+        "Name":"Snecko Skull",
+        "Description":"Whenever you apply Poison, apply an additional 1 Poison.",
+        "Image":"relics\/SneckoSkull.png"
+    },
+    {
+        "Name":"Damaru",
+        "Description":"At the start of your turn, gain 1 Mantra.",
+        "Image":"relics\/Damaru.png"
+    },
+    {
+        "Name":"Enchiridion",
+        "Description":"Start each combat with a random Power card in your hand. It costs 0 until the end of the turn. (From Cursed Tome Event)",
+        "Image":"relics\/Enchiridion.png"
+    },
+    {
+        "Name":"Golden Idol",
+        "Description":"Enemies drop 25% more Gold. (From Golden Idol Event)",
+        "Image":"relics\/GoldenIdol.png"
+    },
+    {
+        "Name":"Necronomicon",
+        "Description":"The first Attack played each turn that costs 2 or more is played twice. When you take this relic, gain an inescapable Curse. (From Cursed Tome Event)",
+        "Image":"relics\/Necronomicon.png"
+    },
+    {
+        "Name":"Neow's Lament",
+        "Description":"Enemies in your first 3 combats will have 1 HP. (From Neow Event)",
+        "Image":"relics\/NeowsLament.png"
+    },
+    {
+        "Name":"Nilry's Codex",
+        "Description":"At the end of each turn, you can choose between 1 of 3 random cards to shuffle into your draw pile. (From Cursed Tome Event)",
+        "Image":"relics\/NilrysCodex.png"
+    },
+    {
+        "Name":"Odd Mushroom",
+        "Description":"When Vulnerable, take 25% more damage, rather than 50%. (From Hypnotizing Colored Mushrooms Event)",
+        "Image":"relics\/OddMushroom.png"
+    },
+    {
+        "Name":"Bloody Idol",
+        "Description":"Whenever you gain Gold, heal 5 HP. (From Forgotten Altar Event)",
+        "Image":"relics\/BloodyIdol.png"
+    },
+    {
+        "Name":"Cultist Headpiece",
+        "Description":"You feel more talkative. (From Face Trader Event)",
+        "Image":"relics\/CultistHeadpiece.png"
+    },
+    {
+        "Name":"Face of Cleric",
+        "Description":"Raise your Max HP by 1 after each combat. (From Face Trader Event)",
+        "Image":"relics\/FaceofCleric.png"
+    },
+    {
+        "Name":"Gremlin Visage",
+        "Description":"Start each combat with 1 Weak. (From Face Trader Event)",
+        "Image":"relics\/GremlinVisage.png"
+    },
+    {
+        "Name":"Mark of the Bloom",
+        "Description":"You can no longer heal. (From Mind Bloom Event)",
+        "Image":"relics\/MarkoftheBloom.png"
+    },
+    {
+        "Name":"Mutagenic Strength",
+        "Description":"Start each combat with 3 Strength that is lost at the end of your turn. (From Augmenter Event)",
+        "Image":"relics\/MutagenicStrength.png"
+    },
+    {
+        "Name":"N'loth's Gift",
+        "Description":"Triples the chance of receiving rare cards as monster rewards. (From N'loth Event)",
+        "Image":"relics\/NlothsGift.png"
+    },
+    {
+        "Name":"N'loth's Hungry Face",
+        "Description":"The next non-boss chest you open is empty. (From Face Trader Event)",
+        "Image":"relics\/NlothsHungryFace.png"
+    },
+    {
+        "Name":"Red Mask",
+        "Description":"At the start of each combat, apply 1 Weak to ALL enemies. (From Masked Bandits or Tomb of Lord Red Mask Event)",
+        "Image":"relics\/RedMask.png"
+    },
+    {
+        "Name":"Ssserpent Head",
+        "Description":"Whenever you enter a ? room, gain 50 Gold. (From Face Trader Event)",
+        "Image":"relics\/SsserpentHead.png"
+    },
+    {
+        "Name":"Warped Tongs",
+        "Description":"At the start of your turn, Upgrade a random card in your hand for the rest of combat. (From Ominous Forge Event)",
+        "Image":"relics\/WarpedTongs.png"
+    },
+    {
+        "Name":"Spirit Poop",
+        "Description":"It's unpleasant (reduces your final score by 1 point; From the Bonfire Spirits Event.)",
+        "Image":"relics\/SpiritPoop.png"
+    },
+    {
+        "Name":"Bird-Faced Urn",
+        "Description":"Whenever you play a Power, heal 2 HP.",
+        "Image":"relics\/BirdFacedUrn.png"
+    },
+    {
+        "Name":"Calipers",
+        "Description":"At the start of your turn lose 15 Block, rather than all of your Block.",
+        "Image":"relics\/Calipers.png"
+    },
+    {
+        "Name":"Captain's Wheel",
+        "Description":"At the start of your 3rd turn, gain 18 Block.",
+        "Image":"relics\/CaptainsWheel.png"
+    },
+    {
+        "Name":"Dead Branch",
+        "Description":"Whenever you Exhaust a card, add a random card to your hand.",
+        "Image":"relics\/DeadBranch.png"
+    },
+    {
+        "Name":"Du-Vu Doll",
+        "Description":"For each Curse in your deck, start each combat with 1 additional Strength.",
+        "Image":"relics\/DuVuDoll.png"
+    },
+    {
+        "Name":"Fossilized Helix",
+        "Description":"Prevent the first time you would lose HP in combat.",
+        "Image":"relics\/FossilizedHelix.png"
+    },
+    {
+        "Name":"Gambling Chip",
+        "Description":"At the start of each combat, discard any number of cards then draw that many.",
+        "Image":"relics\/GamblingChip.png"
+    },
+    {
+        "Name":"Ginger",
+        "Description":"You can no longer become Weakened.",
+        "Image":"relics\/Ginger.png"
+    },
+    {
+        "Name":"Girya",
+        "Description":"\nYou can now gain Strength at Rest Sites. (3 times max)",
+        "Image":"relics\/Girya.png"
+    },
+    {
+        "Name":"Ice Cream",
+        "Description":"Energy is now conserved between turns.",
+        "Image":"relics\/IceCream.png"
+    },
+    {
+        "Name":"Incense Burner",
+        "Description":"Every 6 turns, gain 1 intangible.",
+        "Image":"relics\/IncenseBurner.png"
+    },
+    {
+        "Name":"Lizard Tail",
+        "Description":"When you would die, heal to 50% of your Max HP instead (works once).",
+        "Image":"relics\/LizardTail.png"
+    },
+    {
+        "Name":"Mango",
+        "Description":"Raise your Max HP by 14.",
+        "Image":"relics\/Mango.png"
+    },
+    {
+        "Name":"Old Coin",
+        "Description":"Obtain 300 gold.",
+        "Image":"relics\/OldCoin.png"
+    },
+    {
+        "Name":"Peace Pipe",
+        "Description":"You can now remove cards from your deck at Rest Sites.",
+        "Image":"relics\/PeacePipe.png"
+    },
+    {
+        "Name":"Pocketwatch",
+        "Description":"Whenever you play 3 or less cards in a turn, draw 3 additional cards at the start of your next turn.",
+        "Image":"relics\/Pocketwatch.png"
+    },
+    {
+        "Name":"Prayer Wheel",
+        "Description":"Normal enemies drop an additional card reward.",
+        "Image":"relics\/PrayerWheel.png"
+    },
+    {
+        "Name":"Shovel",
+        "Description":"You can now dig for loot at rest sites.",
+        "Image":"relics\/Shovel.png"
+    },
+    {
+        "Name":"Stone Calendar",
+        "Description":"At the end of turn 7, deal 52 damage to ALL enemies.",
+        "Image":"relics\/StoneCalendar.png"
+    },
+    {
+        "Name":"Thread and Needle",
+        "Description":"At the start of each combat, gain 4 Plated Armor.",
+        "Image":"relics\/ThreadandNeedle.png"
+    },
+    {
+        "Name":"Torii",
+        "Description":"Whenever you would receive 5 or less unblocked Attack damage, reduce it to 1.",
+        "Image":"relics\/Torii.png"
+    },
+    {
+        "Name":"Tungsten Rod",
+        "Description":"Whenever you would lose HP, lose 1 less.",
+        "Image":"relics\/TungstenRod.png"
+    },
+    {
+        "Name":"Turnip",
+        "Description":"You can no longer become Frail.",
+        "Image":"relics\/Turnip.png"
+    },
+    {
+        "Name":"Unceasing Top",
+        "Description":"Whenever you have no cards in hand during your turn, draw a card.",
+        "Image":"relics\/UnceasingTop.png"
+    },
+    {
+        "Name":"Wing Boots",
+        "Description":"You may ignore paths when choosing the next room to travel to 3 times.",
+        "Image":"relics\/WingBoots.png"
+    },
+    {
+        "Name":"Emotion Chip",
+        "Description":"If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.",
+        "Image":"relics\/EmotionChip.png"
+    },
+    {
+        "Name":"Champion Belt",
+        "Description":"Whenever you apply Vulnerable, also apply 1 Weak.",
+        "Image":"relics\/ChampionBelt.png"
+    },
+    {
+        "Name":"Charon\u2019s Ashes",
+        "Description":"Whenever you Exhaust a card, deal 3 damage to ALL enemies.",
+        "Image":"relics\/CharonsAshes.png"
+    },
+    {
+        "Name":"Magic Flower",
+        "Description":"Healing is 50% more effective during combat.",
+        "Image":"relics\/MagicFlower.png"
+    },
+    {
+        "Name":"The Specimen",
+        "Description":"Whenever an enemy dies, transfer any Poison it has to a random enemy.",
+        "Image":"relics\/TheSpecimen.png"
+    },
+    {
+        "Name":"Tingsha",
+        "Description":"Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.",
+        "Image":"relics\/Tingsha.png"
+    },
+    {
+        "Name":"Tough Bandages",
+        "Description":"Whenever you discard a card during your turn, gain 3 Block.",
+        "Image":"relics\/ToughBandages.png"
+    },
+    {
+        "Name":"Cloak Clasp",
+        "Description":"At the end of your turn, gain 1 Block for each card in your hand.",
+        "Image":"relics\/CloakClasp.png"
+    },
+    {
+        "Name":"Golden Eye",
+        "Description":"Whenever you Scry, Scry 2 additional cards.",
+        "Image":"relics\/GoldenEye.png"
+    },
+    {
+        "Name":"Cauldron",
+        "Description":"Upon pickup, brew 5 potions.",
+        "Image":"relics\/Cauldron.png"
+    },
+    {
+        "Name":"Chemical X",
+        "Description":"Whenever you play a cost X card, its effects are increased by 2.",
+        "Image":"relics\/ChemicalX.png"
+    },
+    {
+        "Name":"Clockwork Souvenir",
+        "Description":"At the start of each combat, gain 1 Artifact.",
+        "Image":"relics\/ClockworkSouvenir.png"
+    },
+    {
+        "Name":"Dolly's Mirror",
+        "Description":"Upon pickup, obtain an additional copy of a card in your deck.",
+        "Image":"relics\/DollysMirror.png"
+    },
+    {
+        "Name":"Frozen Eye",
+        "Description":"When viewing your Draw Pile, the cards are now shown in order.",
+        "Image":"relics\/FrozenEye.png"
+    },
+    {
+        "Name":"Hand Drill",
+        "Description":"Whenever you break an enemy's Block, apply 2 Vulnerable.",
+        "Image":"relics\/HandDrill.png"
+    },
+    {
+        "Name":"Lee\u2019s Waffle",
+        "Description":"Raise your Max HP by 7 and heal all of your HP.",
+        "Image":"relics\/LeesWaffle.png"
+    },
+    {
+        "Name":"Medical Kit",
+        "Description":"Status cards can now be played. Playing a Status will Exhaust the card.",
+        "Image":"relics\/MedicalKit.png"
+    },
+    {
+        "Name":"Membership Card",
+        "Description":"50% discount on all products.",
+        "Image":"relics\/MembershipCard.png"
+    },
+    {
+        "Name":"Orange Pellets",
+        "Description":"Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.",
+        "Image":"relics\/OrangePellets.png"
+    },
+    {
+        "Name":"Orrery",
+        "Description":"Choose and add 5 cards to your deck.",
+        "Image":"relics\/Orrery.png"
+    },
+    {
+        "Name":"Prismatic Shard",
+        "Description":"Combat reward screens now contain colorless cards and cards from other colors.",
+        "Image":"relics\/PrismaticShard.png"
+    },
+    {
+        "Name":"Sling of Courage",
+        "Description":"Start each Elite combat with 2 Strength.",
+        "Image":"relics\/SlingofCourage.png"
+    },
+    {
+        "Name":"Strange Spoon",
+        "Description":"Cards which Exhaust when played will instead discard 50% of the time.",
+        "Image":"relics\/StrangeSpoon.png"
+    },
+    {
+        "Name":"The Abacus",
+        "Description":"Gain 6 Block whenever you shuffle your draw pile.",
+        "Image":"relics\/TheAbacus.png"
+    },
+    {
+        "Name":"Toolbox",
+        "Description":"At the start of each combat, add a random colorless card to your hand.",
+        "Image":"relics\/Toolbox.png"
+    },
+    {
+        "Name":"Runic Capacitor",
+        "Description":"Start each combat with 3 additional Orb slots.",
+        "Image":"relics\/RunicCapacitor.png"
+    },
+    {
+        "Name":"Brimstone",
+        "Description":"At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.",
+        "Image":"relics\/Brimstone.png"
+    },
+    {
+        "Name":"Twisted Funnel",
+        "Description":"At the start of each combat, apply 4 Poison to ALL enemies.",
+        "Image":"relics\/TwistedFunnel.png"
+    },
+    {
+        "Name":"Melange",
+        "Description":"Whenever you shuffle your draw pile, Scry 3.",
+        "Image":"relics\/Melange.png"
+    },
+    {
+        "Name":"Cracked Core",
+        "Description":"At the start of each combat, Channel 1 Lightning.",
+        "Image":"relics\/CrackedCore.png"
+    },
+    {
+        "Name":"Burning Blood",
+        "Description":"At the end of combat, heal 6.",
+        "Image":"relics\/BurningBlood.png"
+    },
+    {
+        "Name":"Ring of the Snake",
+        "Description":"At the start of each combat, draw 2 additional cards.",
+        "Image":"relics\/RingoftheSnake.png"
+    },
+    {
+        "Name":"Pure Water",
+        "Description":"At the start of each combat, add a Miracle to your hand.",
+        "Image":"relics\/PureWater.png"
+    },
+    {
+        "Name":"Blue Candle",
+        "Description":"Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.",
+        "Image":"relics\/BlueCandle.png"
+    },
+    {
+        "Name":"Bottled Flame",
+        "Description":"Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",
+        "Image":"relics\/BottledFlame.png"
+    },
+    {
+        "Name":"Bottled Lightning",
+        "Description":"Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",
+        "Image":"relics\/BottledLightning.png"
+    },
+    {
+        "Name":"Bottled Tornado",
+        "Description":"Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",
+        "Image":"relics\/BottledTornado.png"
+    },
+    {
+        "Name":"Darkstone Periapt",
+        "Description":"Whenever you obtain a Curse, increase your Max HP by 6.",
+        "Image":"relics\/DarkstonePeriapt.png"
+    },
+    {
+        "Name":"Eternal Feather",
+        "Description":"For every 5 cards in your deck, heal 3 HP whenever you enter a Rest Site.",
+        "Image":"relics\/EternalFeather.png"
+    },
+    {
+        "Name":"Frozen Egg",
+        "Description":"Whenever you add a Power card to your deck, it is Upgraded.",
+        "Image":"relics\/FrozenEgg.png"
+    },
+    {
+        "Name":"Gremlin Horn",
+        "Description":"Whenever an enemy dies, gain 1 Energy and draw 1 card.",
+        "Image":"relics\/GremlinHorn.png"
+    },
+    {
+        "Name":"Horn Cleat",
+        "Description":"\nAt the start of your 2nd turn, gain 14 Block.",
+        "Image":"relics\/HornCleat.png"
+    },
+    {
+        "Name":"Ink Bottle",
+        "Description":"\r\nWhenever you play 10 cards, draw 1 card.",
+        "Image":"relics\/InkBottle.png"
+    },
+    {
+        "Name":"Kunai",
+        "Description":"Every time you play 3 Attacks in a single turn, gain 1 Dexterity.",
+        "Image":"relics\/Kunai.png"
+    },
+    {
+        "Name":"Letter Opener",
+        "Description":"Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.",
+        "Image":"relics\/LetterOpener.png"
+    },
+    {
+        "Name":"Matryoshka",
+        "Description":"The next 2 non-boss chests you open contain 2 Relics.",
+        "Image":"relics\/Matryoshka.png"
+    },
+    {
+        "Name":"Meat on the Bone",
+        "Description":"If your HP is at or below 50% at the end of combat, heal 12 HP.",
+        "Image":"relics\/MeatontheBone.png"
+    },
+    {
+        "Name":"Mercury Hourglass",
+        "Description":"At the start of your turn deal 3 damage to ALL enemies.",
+        "Image":"relics\/MercuryHourglass.png"
+    },
+    {
+        "Name":"Molten Egg",
+        "Description":"Whenever you add an Attack card to your deck, it is Upgraded.",
+        "Image":"relics\/MoltenEgg.png"
+    },
+    {
+        "Name":"Mummified Hand",
+        "Description":"Whenever you play a Power, a random card in your hand costs 0 for the turn.",
+        "Image":"relics\/MummifiedHand.png"
+    },
+    {
+        "Name":"Ornamental Fan",
+        "Description":"Every time you play 3 Attacks in a single turn, gain 4 Block.",
+        "Image":"relics\/OrnamentalFan.png"
+    },
+    {
+        "Name":"Pantograph",
+        "Description":"At the start of boss combats, heal 25 HP.",
+        "Image":"relics\/Pantograph.png"
+    },
+    {
+        "Name":"Pear",
+        "Description":"Raise your Max HP by 10.",
+        "Image":"relics\/Pear.png"
+    },
+    {
+        "Name":"Question Card",
+        "Description":"On Card Reward screens, choose from 4 cards instead of 3.",
+        "Image":"relics\/QuestionCard.png"
+    },
+    {
+        "Name":"Shuriken",
+        "Description":"Every time you play 3 Attacks in a single turn, gain 1 Strength.",
+        "Image":"relics\/Shuriken.png"
+    },
+    {
+        "Name":"Singing Bowl",
+        "Description":"When adding cards to your deck, you may gain +2 Max HP instead.",
+        "Image":"relics\/SingingBowl.png"
+    },
+    {
+        "Name":"Strike Dummy",
+        "Description":"Cards containing \"Strike\" deal 3 additional damage.",
+        "Image":"relics\/StrikeDummy.png"
+    },
+    {
+        "Name":"Sundial",
+        "Description":"Every 3 times you shuffle your draw pile, gain 2 Energy.",
+        "Image":"relics\/Sundial.png"
+    },
+    {
+        "Name":"The Courier",
+        "Description":"The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.",
+        "Image":"relics\/TheCourier.png"
+    },
+    {
+        "Name":"Toxic Egg",
+        "Description":"Whenever you add a Skill card to your deck, it is Upgraded.",
+        "Image":"relics\/ToxicEgg.png"
+    },
+    {
+        "Name":"White Beast Statue",
+        "Description":"Potions always drop after combat.",
+        "Image":"relics\/WhiteBeastStatue.png"
+    },
+    {
+        "Name":"Gold-Plated Cables",
+        "Description":"Your rightmost Orb triggers its passive an additional time.",
+        "Image":"relics\/GoldPlatedCables.png"
+    },
+    {
+        "Name":"Symbiotic Virus",
+        "Description":"At the Start of each combat, Channel 1 Dark.",
+        "Image":"relics\/SymbioticVirus.png"
+    },
+    {
+        "Name":"Paper Phrog",
+        "Description":"Enemies with Vulnerable take 75% more damage rather than 50%.",
+        "Image":"relics\/PaperPhrog.png"
+    },
+    {
+        "Name":"Self-Forming Clay",
+        "Description":"Whenever you lose HP in combat, gain 3 Block next turn.",
+        "Image":"relics\/SelfFormingClay.png"
+    },
+    {
+        "Name":"Ninja Scroll",
+        "Description":"Start each combat with 3 Shivs in hand.",
+        "Image":"relics\/NinjaScroll.png"
+    },
+    {
+        "Name":"Paper Krane",
+        "Description":"Enemies with Weak deal 40% less damage rather than 25%.",
+        "Image":"relics\/PaperKrane.png"
+    },
+    {
+        "Name":"Duality",
+        "Description":"Whenever you play an Attack, gain 1 temporary Dexterity.",
+        "Image":"relics\/Duality.png"
+    },
+    {
+        "Name":"Teardrop Locket",
+        "Description":"Start each combat in Calm.",
+        "Image":"relics\/TeardropLocket.png"
+    }
+]

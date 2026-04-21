@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spire Sage — AI Deck Advisor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="vignette"></div>
+  <div class="noise"></div>
+
+  <header class="site-header">
+    <div class="header-emblem">✦</div>
+    <h1 class="site-title">Spire Sage</h1>
+    <p class="site-subtitle">AI Deck Advisor</p>
+    <div class="header-emblem">✦</div>
+  </header>
+
+  <div class="floor-bar">
+    <span class="floor-bar-label">⚔ Floor</span>
+    <div class="floor-slider-wrap">
+      <input type="range" id="floor-slider" class="floor-slider" min="1" max="55" value="1" />
+    </div>
+    <input type="number" id="floor-number-input" class="floor-number-input" min="1" max="55" value="1" title="Type a floor number" />
+    <span class="floor-act-badge" id="floor-act-badge">Act I</span>
+  </div>
+
+  <!-- Relic + Boss Bar -->
+  <div class="relic-boss-row">
+
+    <!-- Relic Bar -->
+    <div class="relic-bar" id="relic-bar">
+      <span class="relic-bar-label">⬡ Relics</span>
+
+      <div style="position:relative; flex-shrink:0;" id="relic-add-wrap">
+        <button class="relic-add-btn" id="relic-add-btn" title="Add relic">+</button>
+        <div class="relic-search-popup" id="relic-search-popup" hidden>
+          <input type="text" class="relic-search-input" id="relic-search-input" placeholder="Search relics…" autocomplete="off" />
+          <div class="relic-search-results" id="relic-search-results"></div>
+        </div>
+      </div>
+
+      <div class="relic-items-wrap" id="relic-items-wrap">
+        <span class="relic-empty-hint" id="relic-empty-hint">No relics added yet.</span>
+      </div>
+    </div>
+
+    <!-- Boss Selector -->
+    <div class="boss-bar" id="boss-bar">
+      <span class="boss-bar-label">☠ Boss</span>
+      <div style="position:relative; flex-shrink:0;" id="boss-select-wrap">
+        <button class="relic-add-btn" id="boss-select-btn" title="Select boss">+</button>
+        <div class="relic-search-popup" id="boss-search-popup" hidden>
+          <input type="text" class="relic-search-input" id="boss-search-input" placeholder="Search bosses…" autocomplete="off" />
+          <div class="relic-search-results" id="boss-search-results"></div>
+        </div>
+      </div>
+      <div class="boss-display" id="boss-display">
+        <span class="relic-empty-hint" id="boss-empty-hint">No boss selected.</span>
+      </div>
+    </div>
+
+  </div>
+
+  <main class="app-layout">
+
+    <!-- LEFT: Current Deck -->
+    <section class="panel panel--deck">
+      <div class="panel-header">
+        <span class="panel-icon">⚔</span>
+        <h2 class="panel-title">Your Deck</h2>
+        <span class="deck-count" id="deck-count">0 cards</span>
+      </div>
+
+      <!-- Search -->
+      <div class="search-bar-wrap">
+        <div class="search-input-wrap">
+          <input type="text" id="deck-search" class="text-input search-input" placeholder="Search for a card to add…" autocomplete="off" />
+          <div class="search-results" id="deck-results" hidden></div>
+        </div>
+        <label class="upgraded-label">
+          <input type="checkbox" id="deck-upgraded-input" />
+          <span>Upgraded</span>
+        </label>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="card-grid" id="deck-grid">
+        <div class="empty-state" id="deck-empty">
+          <span class="empty-icon">🂠</span>
+          <p>No cards in your deck yet.</p>
+          <p class="empty-hint">Search above to add cards.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- RIGHT: Upcoming Cards -->
+    <section class="panel panel--upcoming">
+      <div class="panel-header">
+        <span class="panel-icon">✧</span>
+        <h2 class="panel-title">Upcoming Picks</h2>
+        <span class="deck-count" id="upcoming-count">0 cards</span>
+      </div>
+
+      <div class="search-bar-wrap">
+        <div class="search-input-wrap">
+          <input type="text" id="upcoming-search" class="text-input search-input" placeholder="Search for a card choice…" autocomplete="off" />
+          <div class="search-results" id="upcoming-results" hidden></div>
+        </div>
+        <label class="upgraded-label">
+          <input type="checkbox" id="upcoming-upgraded-input" />
+          <span>Upgraded</span>
+        </label>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="card-grid" id="upcoming-grid">
+        <div class="empty-state" id="upcoming-empty">
+          <span class="empty-icon">✦</span>
+          <p>No upcoming cards yet.</p>
+          <p class="empty-hint">Add the cards you can pick from.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- AI Section -->
+  <section class="ai-section">
+    <button class="btn btn--ask" id="ask-ai-btn">
+      <span class="btn-glow"></span>
+      <span class="btn-text">✦ Consult the Sage ✦</span>
+    </button>
+
+    <div class="ai-response-area">
+      <div class="ai-response-idle" id="ai-idle">
+        <p class="idle-text">The Sage awaits your query…</p>
+      </div>
+      <div class="ai-response-content" id="ai-content" hidden>
+        <div class="ai-header">
+          <span class="ai-icon">🔮</span>
+          <span class="ai-label">The Sage's Counsel</span>
+        </div>
+        <div class="ai-message" id="ai-message"></div>
+      </div>
+      <div class="ai-loading" id="ai-loading" hidden>
+        <div class="rune-spinner">
+          <span>᚛</span><span>᚜</span><span>᚛</span><span>᚜</span>
+        </div>
+        <p>Consulting the ancient knowledge…</p>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <p>Spire Sage — Built for Slay the Spire strategists</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

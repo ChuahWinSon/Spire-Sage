@@ -1,0 +1,42 @@
+[
+  {
+    "Boss": "Awakenedone",
+    "Image": "bosses\/Awakenedoneicon.png"
+  },
+  {
+    "Boss": "Bronzeautomaton",
+    "Image": "bosses\/Bronzeautomatonicon.png"
+  },
+  {
+    "Boss": "Champ",
+    "Image": "bosses\/Champicon.png"
+  },
+  {
+    "Boss": "Collector",
+    "Image": "bosses\/Collectoricon.png"
+  },
+  {
+    "Boss": "CorruptHeart",
+    "Image": "bosses\/CorruptHeartIcon.png"
+  },
+  {
+    "Boss": "Donudeca",
+    "Image": "bosses\/Donudecaicon.png"
+  },
+  {
+    "Boss": "Guardian",
+    "Image": "bosses\/Guardianicon.png"
+  },
+  {
+    "Boss": "Hexaghost",
+    "Image": "bosses\/Hexaghosticon.png"
+  },
+  {
+    "Boss": "Slimeboss",
+    "Image": "bosses\/Slimebossicon.png"
+  },
+  {
+    "Boss": "Timeeater",
+    "Image": "bosses\/Timeeatericon.png"
+  }
+]

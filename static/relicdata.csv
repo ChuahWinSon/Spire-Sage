@@ -1,0 +1,182 @@
+Link,Image,Name,Description,Rarity,Row-height hack (hidden),Class,Ironclad,Silent,Defect,Watcher,All,Trigger Type,Benefit Type
+🔗,,Astrolabe,"Upon pickup, choose and Transform 3 cards, then Upgrade them.",Boss,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Black Star,Elites now drop 2 Relics when defeated.,Boss,|,Any,✅,✅,✅,✅,✅,Elite / Boss,Relic
+🔗,,Busted Crown,"Gain 1 Energy at the start of each turn. On card reward screens, you have 2 fewer cards to choose from.",Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Calling Bell,Obtain a special Curse and 3 Relics,Boss,|,Any,✅,✅,✅,✅,✅,Immediate,Relic
+🔗,,Coffee Dripper,Gain 1 Energy at the start of each turn. You can no longer Rest at Rest Sites.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Cursed Key,"Gain 1 Energy at the start of each turn. Whenever you open non-boss chests, obtain 1 Curse.",Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Ectoplasm,Gain 1 Energy at the start of each turn. You can no long obtain Gold.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Empty Cage,"Upon pickup, remove 2 cards from your deck.",Boss,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Fusion Hammer,Gain 1 Energy at the start of each turn. You can no longer Smith at Rest Sites.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Pandora's Box,Transform all Strikes and Defends.,Boss,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Philosopher’s Stone,Gain 1 Energy at the start of each turn. ALL enemies start with 2 Strength.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Runic Dome,Gain 1 Energy at the start of each turn. You can no long see enemy Intents.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Runic Pyramid,"At the end of your turn, you no longer discard your hand.",Boss,|,Any,✅,✅,✅,✅,✅,Turn,Special
+🔗,,Sacred Bark,Double the effectiveness of potions.,Boss,|,Any,✅,✅,✅,✅,✅,Potion,Potion
+🔗,,Slaver's Collar,"During Boss and Elite combats, gain Energy at the start of your turn.",Boss,|,Any,✅,✅,✅,✅,✅,Elite / Boss,Energy
+🔗,,Snecko Eye,Draw 2 additional cards each turn. Start each combat Confused.,Boss,|,Any,✅,✅,✅,✅,✅,Special,Special
+🔗,,Sozu,Gain 1 Energy at the start of each turn. You can no longer use potions.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Tiny House,Obtain 1 Potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 Card. Upgrade 1 Random card.,Boss,|,Any,✅,✅,✅,✅,✅,Immediate,Special
+🔗,,Velvet Choker,Gain 1 Energy at the start of each turn. You cannot play more than 6 cards per turn.,Boss,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Frozen Core,"*Replaces Cracked Core* If you end your turn with empty Orb slots, Channel 1 Frost Orb.",Boss,|,Defect,❌,❌,✅,❌,❌,Special,Orb
+🔗,,Inserter,"Every 2 turns, gain 1 Orb slot.",Boss,|,Defect,❌,❌,✅,❌,❌,Turn Count,Orb
+🔗,,Nuclear Battery,"At the start of each combat, Channel 1 Plasma.",Boss,|,Defect,❌,❌,✅,❌,❌,Combat Start,Orb
+🔗,,Black Blood,"*Replaces burning blood* At the end of combat, heal 12 HP.",Boss,|,Ironclad,✅,❌,❌,❌,❌,Combat End,Heal
+🔗,,Mark of Pain,Gain 1 Energy at the start of each turn. Start combats with 2 Wounds in your draw pile.,Boss,|,Ironclad,✅,❌,❌,❌,❌,Turn,Energy
+🔗,,Runic Cube,"Whenever you lose HP, draw 1 card.",Boss,|,Ironclad,✅,❌,❌,❌,❌,Hit Points,Draw
+🔗,,Hovering Kite,"The first time you discard a card each turn, gain 1 Energy.",Boss,|,Silent,❌,✅,❌,❌,❌,Discard,Energy
+🔗,,Ring of the Serpent,"*Replaces Ring of the Snake* At the start of your turn, draw 1 additional card.",Boss,|,Silent,❌,✅,❌,❌,❌,Turn,Draw
+🔗,,Wrist Blade,Attacks that cost 0 deal 4 additional damage.,Boss,|,Silent,❌,✅,❌,❌,❌,Card Play,Damage
+🔗,,Holy Water,"*Replaces Pure Water* At the start of each combat, add 3 Miracles to your hand.",Boss,|,Watcher,❌,❌,❌,✅,❌,Combat Start,Energy
+🔗,,Violet Lotus,"Whenever you exit Calm, gain an additional Energy.",Boss,|,Watcher,❌,❌,❌,✅,❌,Special,Energy
+🔗,,Akabeko,Your first attack each combat deals 8 additional damage.,Common,|,Any,✅,✅,✅,✅,✅,Combat Start,Damage
+🔗,,Anchor,Start each combat with 10 Block.,Common,|,Any,✅,✅,✅,✅,✅,Turn 1,Block
+🔗,,Ancient Tea Set,"Whenever you enter a Rest Site, start the next combat with 2 Energy.",Common,|,Any,✅,✅,✅,✅,✅,Rest Site,Energy
+🔗,,Art of War,"If you do not play any Attacks during your turn, gain an extra Energy next turn.",Common,|,Any,✅,✅,✅,✅,✅,Card-play count,Energy
+🔗,,Bag of Marbles,"At the start of each combat, apply 1 Vulnerable to ALL enemies.",Common,|,Any,✅,✅,✅,✅,✅,Turn 1,Debuff
+🔗,,Bag of Preparation,"At the start of each combat, draw 2 additional cards.",Common,|,Any,✅,✅,✅,✅,✅,Turn 1,Draw
+🔗,,Blood Vial,"At the start of each combat, heal 2 HP.",Common,|,Any,✅,✅,✅,✅,✅,Combat Start,Heal
+🔗,,Bronze Scales,"Whenever you take damage, deal 3 damage back.",Common,|,Any,✅,✅,✅,✅,✅,Hit Points,Damage
+🔗,,Centennial Puzzle,"The first time you lose HP each combat, draw 3 cards.",Common,|,Any,✅,✅,✅,✅,✅,Hit Points,Draw
+🔗,,Ceramic Fish,"Whenever you add a card to your deck, gain 9 gold.",Common,|,Any,✅,✅,✅,✅,✅,Add card,Gold
+🔗,,Dream Catcher,"Whenever you rest, you may add a card to your deck.",Common,|,Any,✅,✅,✅,✅,✅,Rest Site,Alter Deck
+🔗,,Happy Flower,"Every 3 turns, gain 1 Energy.",Common,|,Any,✅,✅,✅,✅,✅,Turn Count,Energy
+🔗,,Juzu Bracelet,Regular enemy combats are no longer encountered in ? rooms.,Common,|,Any,✅,✅,✅,✅,✅,Permanent,Special
+🔗,,Lantern,Gain 1 Energy on the first turn of each combat.,Common,|,Any,✅,✅,✅,✅,✅,Turn 1,Energy
+🔗,,Maw Bank,"Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at the shop.",Common,|,Any,✅,✅,✅,✅,✅,Map Movement,Gold
+🔗,,Meal Ticket,"Whenever you enter a shop room, heal 15 HP.",Common,|,Any,✅,✅,✅,✅,✅,Shop,Heal
+🔗,,Nunchaku,"Every time you play 10 Attacks, gain 1 Energy.",Common,|,Any,✅,✅,✅,✅,✅,Card-play count,Energy
+🔗,,Oddly Smooth Stone,"At the start of each combat, gain 1 Dexterity.",Common,|,Any,✅,✅,✅,✅,✅,Combat Start,Dexterity
+🔗,,Omamori,Negate the next 2 Curses you obtain.,Common,|,Any,✅,✅,✅,✅,✅,Special,Negate Problem
+🔗,,Orichalcum,"If you end your turn without Block, gain 6 Block.",Common,|,Any,✅,✅,✅,✅,✅,Turn,Block
+🔗,,Pen Nib,Every 10th Attack you play deals double damage.,Common,|,Any,✅,✅,✅,✅,✅,Card-play count,Damage
+🔗,,Potion Belt,"Upon pickup, gain 2 potion slots.",Common,|,Any,✅,✅,✅,✅,✅,Immediate,Potion
+🔗,,Preserved Insect,Enemies in Elite rooms have 25% less HP.,Common,|,Any,✅,✅,✅,✅,✅,Elite / Boss,Debuff
+🔗,,Regal Pillow,Heal an additional 15 HP when you Rest.,Common,|,Any,✅,✅,✅,✅,✅,Rest Site,Heal
+🔗,,Smiling Mask,The merchant’s card removal service now always costs 50 Gold.,Common,|,Any,✅,✅,✅,✅,✅,Shop,Gold
+🔗,,Strawberry,Raise your Max HP by 7.,Common,|,Any,✅,✅,✅,✅,✅,Immediate,Heal
+🔗,,The Boot,"Whenever you would deal 4 or less unblocked Attack damage, increase it to 5.",Common,|,Any,✅,✅,✅,✅,✅,Card Play,Damage
+🔗,,Tiny Chest,Every 4th ? room is a Treasure room.,Common,|,Any,✅,✅,✅,✅,✅,Map Movement,Relic
+🔗,,Toy Ornithopter,"Whenever you use a potion, heal 5 HP.",Common,|,Any,✅,✅,✅,✅,✅,Potion,Heal
+🔗,,Vajra,"At the start of each combat, gain 1 Strength.",Common,|,Any,✅,✅,✅,✅,✅,Combat Start,Strength
+🔗,,War Paint,"Upon pickup, Upgrade 2 random Skills.",Common,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Whetstone,"Upon pickup, Upgrade 2 random Attacks.",Common,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Data Disk,Start each combat with 1 Focus.,Common,|,Defect,❌,❌,✅,❌,❌,Combat Start,Orb
+🔗,,Red Skull,"While your HP is at or below 50%, you have 3 additional Strength.",Common,|,Ironclad,✅,❌,❌,❌,❌,Hit Points,Strength
+🔗,,Snecko Skull,"Whenever you apply Poison, apply an additional 1 Poison.",Common,|,Silent,❌,✅,❌,❌,❌,Special,Poison
+🔗,,Damaru,"At the start of your turn, gain 1 Mantra.",Common,|,Watcher,❌,❌,❌,✅,❌,Turn,Special
+🔗,,Enchiridion,Start each combat with a random Power card in your hand. It costs 0 until the end of the turn. (From Cursed Tome Event),Event,|,Any,✅,✅,✅,✅,✅,Turn 1,Alter Deck (Temp)
+🔗,,Golden Idol,Enemies drop 25% more Gold. (From Golden Idol Event),Event,|,Any,✅,✅,✅,✅,✅,Combat End,Gold
+🔗,,Necronomicon,"The first Attack played each turn that costs 2 or more is played twice. When you take this relic, gain an inescapable Curse. (From Cursed Tome Event)",Event,|,Any,✅,✅,✅,✅,✅,Card Play,Special
+🔗,,Neow's Lament,Enemies in your first 3 combats will have 1 HP. (From Neow Event),Event,|,Any,✅,✅,✅,✅,✅,Special,Debuff
+🔗,,Nilry's Codex,"At the end of each turn, you can choose between 1 of 3 random cards to shuffle into your draw pile. (From Cursed Tome Event)",Event,|,Any,✅,✅,✅,✅,✅,Turn,Alter Deck (Temp)
+🔗,,Odd Mushroom,"When Vulnerable, take 25% more damage, rather than 50%. (From Hypnotizing Colored Mushrooms Event)",Event,|,Any,✅,✅,✅,✅,✅,Permanent,Negate Problem
+🔗,,Bloody Idol,"Whenever you gain Gold, heal 5 HP. (From Forgotten Altar Event)",Event,|,Any,✅,✅,✅,✅,✅,Special,Heal
+🔗,,Cultist Headpiece,You feel more talkative. (From Face Trader Event),Event,|,Any,✅,✅,✅,✅,✅,Permanent,No benefit
+🔗,,Face of Cleric,Raise your Max HP by 1 after each combat. (From Face Trader Event),Event,|,Any,✅,✅,✅,✅,✅,Combat End,Heal
+🔗,,Gremlin Visage,Start each combat with 1 Weak. (From Face Trader Event),Event,|,Any,✅,✅,✅,✅,✅,Turn 1,No benefit
+🔗,,Mark of the Bloom,You can no longer heal. (From Mind Bloom Event),Event,|,Any,✅,✅,✅,✅,✅,Permanent,No benefit
+🔗,,Mutagenic Strength,Start each combat with 3 Strength that is lost at the end of your turn. (From Augmenter Event),Event,|,Any,✅,✅,✅,✅,✅,Turn 1,Strength
+🔗,,N'loth's Gift,Triples the chance of receiving rare cards as monster rewards. (From N'loth Event),Event,|,Any,✅,✅,✅,✅,✅,Combat End,Alter Deck
+🔗,,N'loth's Hungry Face,The next non-boss chest you open is empty. (From Face Trader Event),Event,|,Any,✅,✅,✅,✅,✅,Special,No benefit
+🔗,,Red Mask,"At the start of each combat, apply 1 Weak to ALL enemies. (From Masked Bandits or Tomb of Lord Red Mask Event)",Event,|,Any,✅,✅,✅,✅,✅,Turn 1,Debuff
+🔗,,Ssserpent Head,"Whenever you enter a ? room, gain 50 Gold. (From Face Trader Event)",Event,|,Any,✅,✅,✅,✅,✅,Map Movement,Gold
+🔗,,Warped Tongs,"At the start of your turn, Upgrade a random card in your hand for the rest of combat. (From Ominous Forge Event)",Event,|,Any,✅,✅,✅,✅,✅,Turn,Alter Deck (Temp)
+🔗,,Spirit Poop,It's unpleasant (reduces your final score by 1 point; From the Bonfire Spirits Event.),Event,|,Any,✅,✅,✅,✅,✅,Permanent,No benefit
+🔗,,Bird-Faced Urn,"Whenever you play a Power, heal 2 HP.",Rare,|,Any,✅,✅,✅,✅,✅,Card Play,Heal
+🔗,,Calipers,"At the start of your turn lose 15 Block, rather than all of your Block.",Rare,|,Any,✅,✅,✅,✅,✅,Turn,Block
+🔗,,Captain's Wheel,"At the start of your 3rd turn, gain 18 Block.",Rare,|,Any,✅,✅,✅,✅,✅,Turn Count,Block
+🔗,,Dead Branch,"Whenever you Exhaust a card, add a random card to your hand.",Rare,|,Any,✅,✅,✅,✅,✅,Exhaust,Alter Deck (Temp)
+🔗,,Du-Vu Doll,"For each Curse in your deck, start each combat with 1 additional Strength.",Rare,|,Any,✅,✅,✅,✅,✅,Combat Start,Strength
+🔗,,Fossilized Helix,Prevent the first time you would lose HP in combat.,Rare,|,Any,✅,✅,✅,✅,✅,Hit Points,Negate Problem
+🔗,,Gambling Chip,"At the start of each combat, discard any number of cards then draw that many.",Rare,|,Any,✅,✅,✅,✅,✅,Turn 1,Draw
+🔗,,Ginger,You can no longer become Weakened.,Rare,|,Any,✅,✅,✅,✅,✅,Permanent,Negate Problem
+🔗,,Girya,"
+You can now gain Strength at Rest Sites. (3 times max)",Rare,|,Any,✅,✅,✅,✅,✅,Rest Site,Strength
+🔗,,Ice Cream,Energy is now conserved between turns.,Rare,|,Any,✅,✅,✅,✅,✅,Turn,Energy
+🔗,,Incense Burner,"Every 6 turns, gain 1 intangible.",Rare,|,Any,✅,✅,✅,✅,✅,Turn Count,Negate Problem
+🔗,,Lizard Tail,"When you would die, heal to 50% of your Max HP instead (works once).",Rare,|,Any,✅,✅,✅,✅,✅,Hit Points,Negate Problem
+🔗,,Mango,Raise your Max HP by 14.,Rare,|,Any,✅,✅,✅,✅,✅,Immediate,Heal
+🔗,,Old Coin,Obtain 300 gold.,Rare,|,Any,✅,✅,✅,✅,✅,Immediate,Gold
+🔗,,Peace Pipe,You can now remove cards from your deck at Rest Sites.,Rare,|,Any,✅,✅,✅,✅,✅,Rest Site,Alter Deck
+🔗,,Pocketwatch,"Whenever you play 3 or less cards in a turn, draw 3 additional cards at the start of your next turn.",Rare,|,Any,✅,✅,✅,✅,✅,Card-play count,Draw
+🔗,,Prayer Wheel,Normal enemies drop an additional card reward.,Rare,|,Any,✅,✅,✅,✅,✅,Combat End,Alter Deck
+🔗,,Shovel,You can now dig for loot at rest sites.,Rare,|,Any,✅,✅,✅,✅,✅,Rest Site,Relic
+🔗,,Stone Calendar,"At the end of turn 7, deal 52 damage to ALL enemies.",Rare,|,Any,✅,✅,✅,✅,✅,Turn Count,Damage
+🔗,,Thread and Needle,"At the start of each combat, gain 4 Plated Armor.",Rare,|,Any,✅,✅,✅,✅,✅,Combat Start,Block
+🔗,,Torii,"Whenever you would receive 5 or less unblocked Attack damage, reduce it to 1.",Rare,|,Any,✅,✅,✅,✅,✅,Hit Points,Block
+🔗,,Tungsten Rod,"Whenever you would lose HP, lose 1 less.",Rare,|,Any,✅,✅,✅,✅,✅,Hit Points,Block
+🔗,,Turnip,You can no longer become Frail.,Rare,|,Any,✅,✅,✅,✅,✅,Permanent,Negate Problem
+🔗,,Unceasing Top,"Whenever you have no cards in hand during your turn, draw a card.",Rare,|,Any,✅,✅,✅,✅,✅,Special,Draw
+🔗,,Wing Boots,You may ignore paths when choosing the next room to travel to 3 times.,Rare,|,Any,✅,✅,✅,✅,✅,Map Movement,Special
+🔗,,Emotion Chip,"If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.",Rare,|,Defect,❌,❌,✅,❌,❌,Hit Points,Orb
+🔗,,Champion Belt,"Whenever you apply Vulnerable, also apply 1 Weak.",Rare,|,Ironclad,✅,❌,❌,❌,❌,Special,Debuff
+🔗,,Charon’s Ashes,"Whenever you Exhaust a card, deal 3 damage to ALL enemies.",Rare,|,Ironclad,✅,❌,❌,❌,❌,Exhaust,Damage
+🔗,,Magic Flower,Healing is 50% more effective during combat.,Rare,|,Ironclad,✅,❌,❌,❌,❌,Hit Points,Heal
+🔗,,The Specimen,"Whenever an enemy dies, transfer any Poison it has to a random enemy.",Rare,|,Silent,❌,✅,❌,❌,❌,Special,Poison
+🔗,,Tingsha,"Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.",Rare,|,Silent,❌,✅,❌,❌,❌,Discard,Damage
+🔗,,Tough Bandages,"Whenever you discard a card during your turn, gain 3 Block.",Rare,|,Silent,❌,✅,❌,❌,❌,Discard,Block
+🔗,,Cloak Clasp,"At the end of your turn, gain 1 Block for each card in your hand.",Rare,|,Watcher,❌,❌,❌,✅,❌,Turn,Block
+🔗,,Golden Eye,"Whenever you Scry, Scry 2 additional cards.",Rare,|,Watcher,❌,❌,❌,✅,❌,Special,Scry
+🔗,,Cauldron,"Upon pickup, brew 5 potions.",Shop,|,Any,✅,✅,✅,✅,✅,Immediate,Potion
+🔗,,Chemical X,"Whenever you play a cost X card, its effects are increased by 2.",Shop,|,Any,✅,✅,✅,✅,✅,Card Play,Special
+🔗,,Clockwork Souvenir,"At the start of each combat, gain 1 Artifact.",Shop,|,Any,✅,✅,✅,✅,✅,Combat Start,Negate Problem
+🔗,,Dolly's Mirror,"Upon pickup, obtain an additional copy of a card in your deck.",Shop,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Frozen Eye,"When viewing your Draw Pile, the cards are now shown in order.",Shop,|,Any,✅,✅,✅,✅,✅,Permanent,Special
+🔗,,Hand Drill,"Whenever you break an enemy's Block, apply 2 Vulnerable.",Shop,|,Any,✅,✅,✅,✅,✅,Card Play,Debuff
+🔗,,Lee’s Waffle,Raise your Max HP by 7 and heal all of your HP.,Shop,|,Any,✅,✅,✅,✅,✅,Immediate,Heal
+🔗,,Medical Kit,Status cards can now be played. Playing a Status will Exhaust the card.,Shop,|,Any,✅,✅,✅,✅,✅,Card Play,Special
+🔗,,Membership Card,50% discount on all products.,Shop,|,Any,✅,✅,✅,✅,✅,Shop,Gold
+🔗,,Orange Pellets,"Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.",Shop,|,Any,✅,✅,✅,✅,✅,Card Play,Negate Problem
+🔗,,Orrery,Choose and add 5 cards to your deck.,Shop,|,Any,✅,✅,✅,✅,✅,Immediate,Alter Deck
+🔗,,Prismatic Shard,Combat reward screens now contain colorless cards and cards from other colors.,Shop,|,Any,✅,✅,✅,✅,✅,Combat End,Alter Deck
+🔗,,Sling of Courage,Start each Elite combat with 2 Strength.,Shop,|,Any,✅,✅,✅,✅,✅,Elite / Boss,Strength
+🔗,,Strange Spoon,Cards which Exhaust when played will instead discard 50% of the time.,Shop,|,Any,✅,✅,✅,✅,✅,Exhaust,Alter Deck (Temp)
+🔗,,The Abacus,Gain 6 Block whenever you shuffle your draw pile.,Shop,|,Any,✅,✅,✅,✅,✅,Shuffle,Block
+🔗,,Toolbox,"At the start of each combat, add a random colorless card to your hand.",Shop,|,Any,✅,✅,✅,✅,✅,Combat Start,Alter Deck (Temp)
+🔗,,Runic Capacitor,Start each combat with 3 additional Orb slots.,Shop,|,Defect,❌,❌,✅,❌,❌,Combat Start,Orb
+🔗,,Brimstone,"At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.",Shop,|,Ironclad,✅,❌,❌,❌,❌,Turn,Strength
+🔗,,Twisted Funnel,"At the start of each combat, apply 4 Poison to ALL enemies.",Shop,|,Silent,❌,✅,❌,❌,❌,Turn 1,Poison
+🔗,,Melange,"Whenever you shuffle your draw pile, Scry 3.",Shop,|,Watcher,❌,❌,❌,✅,❌,Shuffle,Scry
+🔗,,Cracked Core,"At the start of each combat, Channel 1 Lightning.",Starter,|,Defect,❌,❌,✅,❌,❌,Combat Start,Orb
+🔗,,Burning Blood,"At the end of combat, heal 6.",Starter,|,Ironclad,✅,❌,❌,❌,❌,Combat End,Heal
+🔗,,Ring of the Snake,"At the start of each combat, draw 2 additional cards.",Starter,|,Silent,❌,✅,❌,❌,❌,Turn 1,Draw
+🔗,,Pure Water,"At the start of each combat, add a Miracle to your hand.",Starter,|,Watcher,❌,❌,❌,✅,❌,Combat Start,Energy
+🔗,,Blue Candle,Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.,Uncommon,|,Any,✅,✅,✅,✅,✅,Card Play,Special
+🔗,,Bottled Flame,"Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.",Uncommon,|,Any,✅,✅,✅,✅,✅,Immediate,Innate Card
+🔗,,Bottled Lightning,"Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.",Uncommon,|,Any,✅,✅,✅,✅,✅,Immediate,Innate Card
+🔗,,Bottled Tornado,"Upon pickup, choose a Power card. At the start of each combat, this card will be in your hand.",Uncommon,|,Any,✅,✅,✅,✅,✅,Immediate,Innate Card
+🔗,,Darkstone Periapt,"Whenever you obtain a Curse, increase your Max HP by 6.",Uncommon,|,Any,✅,✅,✅,✅,✅,Special,Heal
+🔗,,Eternal Feather,"For every 5 cards in your deck, heal 3 HP whenever you enter a Rest Site.",Uncommon,|,Any,✅,✅,✅,✅,✅,Rest Site,Heal
+🔗,,Frozen Egg,"Whenever you add a Power card to your deck, it is Upgraded.",Uncommon,|,Any,✅,✅,✅,✅,✅,Add card,Alter Deck
+🔗,,Gremlin Horn,"Whenever an enemy dies, gain 1 Energy and draw 1 card.",Uncommon,|,Any,✅,✅,✅,✅,✅,Special,Energy
+🔗,,Horn Cleat,"
+At the start of your 2nd turn, gain 14 Block.",Uncommon,|,Any,✅,✅,✅,✅,✅,Turn Count,Block
+🔗,,Ink Bottle,"
+Whenever you play 10 cards, draw 1 card.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card-play count,Draw
+🔗,,Kunai,"Every time you play 3 Attacks in a single turn, gain 1 Dexterity.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card-play count,Dexterity
+🔗,,Letter Opener,"Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card-play count,Damage
+🔗,,Matryoshka,The next 2 non-boss chests you open contain 2 Relics.,Uncommon,|,Any,✅,✅,✅,✅,✅,Special,Relic
+🔗,,Meat on the Bone,"If your HP is at or below 50% at the end of combat, heal 12 HP.",Uncommon,|,Any,✅,✅,✅,✅,✅,Hit Points,Heal
+🔗,,Mercury Hourglass,At the start of your turn deal 3 damage to ALL enemies.,Uncommon,|,Any,✅,✅,✅,✅,✅,Turn,Damage
+🔗,,Molten Egg,"Whenever you add an Attack card to your deck, it is Upgraded.",Uncommon,|,Any,✅,✅,✅,✅,✅,Add card,Alter Deck
+🔗,,Mummified Hand,"Whenever you play a Power, a random card in your hand costs 0 for the turn.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card Play,Energy
+🔗,,Ornamental Fan,"Every time you play 3 Attacks in a single turn, gain 4 Block.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card-play count,Block
+🔗,,Pantograph,"At the start of boss combats, heal 25 HP.",Uncommon,|,Any,✅,✅,✅,✅,✅,Elite / Boss,Heal
+🔗,,Pear,Raise your Max HP by 10.,Uncommon,|,Any,✅,✅,✅,✅,✅,Immediate,Heal
+🔗,,Question Card,"On Card Reward screens, choose from 4 cards instead of 3.",Uncommon,|,Any,✅,✅,✅,✅,✅,Add card,Alter Deck
+🔗,,Shuriken,"Every time you play 3 Attacks in a single turn, gain 1 Strength.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card-play count,Strength
+🔗,,Singing Bowl,"When adding cards to your deck, you may gain +2 Max HP instead.",Uncommon,|,Any,✅,✅,✅,✅,✅,Add card,Heal
+🔗,,Strike Dummy,"Cards containing ""Strike"" deal 3 additional damage.",Uncommon,|,Any,✅,✅,✅,✅,✅,Card Play,Damage
+🔗,,Sundial,"Every 3 times you shuffle your draw pile, gain 2 Energy.",Uncommon,|,Any,✅,✅,✅,✅,✅,Shuffle,Energy
+🔗,,The Courier,"The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.",Uncommon,|,Any,✅,✅,✅,✅,✅,Shop,Gold
+🔗,,Toxic Egg,"Whenever you add a Skill card to your deck, it is Upgraded.",Uncommon,|,Any,✅,✅,✅,✅,✅,Add card,Alter Deck
+🔗,,White Beast Statue,Potions always drop after combat.,Uncommon,|,Any,✅,✅,✅,✅,✅,Combat End,Potion
+🔗,,Gold-Plated Cables,Your rightmost Orb triggers its passive an additional time.,Uncommon,|,Defect,❌,❌,✅,❌,❌,Turn,Orb
+🔗,,Symbiotic Virus,"At the Start of each combat, Channel 1 Dark.",Uncommon,|,Defect,❌,❌,✅,❌,❌,Combat Start,Orb
+🔗,,Paper Phrog,Enemies with Vulnerable take 75% more damage rather than 50%.,Uncommon,|,Ironclad,✅,❌,❌,❌,❌,Permanent,Debuff
+🔗,,Self-Forming Clay,"Whenever you lose HP in combat, gain 3 Block next turn.",Uncommon,|,Ironclad,✅,❌,❌,❌,❌,Hit Points,Block
+🔗,,Ninja Scroll,Start each combat with 3 Shivs in hand.,Uncommon,|,Silent,❌,✅,❌,❌,❌,Turn 1,Alter Deck (Temp)
+🔗,,Paper Krane,Enemies with Weak deal 40% less damage rather than 25%.,Uncommon,|,Silent,❌,✅,❌,❌,❌,Permanent,Debuff
+🔗,,Duality,"Whenever you play an Attack, gain 1 temporary Dexterity.",Uncommon,|,Watcher,❌,❌,❌,✅,❌,Card Play,Dexterity
+🔗,,Teardrop Locket,Start each combat in Calm.,Uncommon,|,Watcher,❌,❌,❌,✅,❌,Turn 1,Special
